@@ -1,6 +1,6 @@
 # ESP32-with-sensors
 # Description 
-This project shows the connection of ESP32 with sensors, once an analog sensor, and the other with a digital one. The digital sensor used is PIR motion sensor; the analog sensor in the second circuit is … 
+This project shows the connection of ESP32 with sensors, once an analog sensor, and the other with a digital one. The digital sensor used is PIR motion sensor; the analog sensor in the second circuit is LDR. The projects are done in Wokwi. Wokwi is an online simulator for electronics and microcontroller projects, allowing users to design, prototype, and test their circuits without needing physical components.  
 
 # What is ESP32? 
 "A feature-rich MCU with integrated Wi-Fi and Bluetooth connectivity for a wide-range of applications." The ESP32 can function as a complete standalone system or as a slave device to a host MCU, lowering communication stack overhead on the primary application CPU. ESP32's SPI / SDIO and I2C / UART interfaces allow it to communicate with other systems and enable Wi-Fi and Bluetooth features. 
