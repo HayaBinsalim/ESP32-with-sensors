@@ -71,10 +71,10 @@ The figure below, in the other hand, is of the circuit after the motion being si
 
 ## Circuit 2: ESP32 with Analog Sensor (LDR) 
 ### Components
-ESP32
-LDR Sensor
-10k Ohm Resistor
-LCD (16x2 with I2C)
+- ESP32
+- LDR Sensor (photoresistor)--“Photoresistor is a variable resistor whose resistance varies inversely with the intensity of light”
+- 10k Ohm Resistor
+- LCD (16x2 with I2C)
 
 ### Circuit Diagram 
 The figure below shows the connection of the components that will measure the LUX by the ldr, and display the light level and the voltage in the lcd.
@@ -128,5 +128,6 @@ Two values of LUX are shown below for comparison. When the LUX increases, bot th
 **With 15 LUX**:
 
 <img width="473" alt="image" src="https://github.com/HayaBinsalim/ESP32-with-sensors/assets/173661622/30a165f0-400b-4183-9f72-778d1b1b61a3">
+
 
 
